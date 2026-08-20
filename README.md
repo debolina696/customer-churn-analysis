@@ -35,7 +35,13 @@
 - Identify high-risk customers early  
 - Design targeted retention strategies  
 - Quantify revenue impact of churn reduction  
-- Provide executives with clear, actionable insights  
+- Provide executives with clear, actionable insights
+
+- ## 📌 Key Results
+- Logistic Regression achieved 82% accuracy.
+- Tenure length, contract type, and payment method were the strongest churn predictors.
+- Power BI dashboard highlights high‑risk customer segments for proactive retention.
+
 
 ---
 
