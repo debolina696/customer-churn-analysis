@@ -1,0 +1,26 @@
+# Core libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Utilities
+jupyter
+Explanation
+pandas → Data cleaning and manipulation
+
+numpy → Numerical operations
+
+matplotlib & seaborn → Visualizations during EDA
+
+scikit-learn → Modeling, evaluation metrics
+
+xgboost → Advanced gradient boosting model
+
+jupyter → Notebook environment
